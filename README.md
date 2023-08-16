@@ -27,14 +27,28 @@ Created a new table named "DailyFlights" with 5 new column: </p>
 <p align="center">
 <img src="https://i.imgur.com/LNjjKUX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-</p>
+<br />
 
 <p align="center">
 Created a new table named AllDailyData: <br/>
 <img src="https://i.imgur.com/FmcWlRv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+
+<p align="center">
+Made a query for each month, by origin and carrier with new measures:
+</p>
+<p align="left">
+- num_flights: shows the number of flights. <br />
+- num_delayed_flight: shows the number of delayed flights. <br />
+- num_of_cancelled_flights: shows the number of cancelled flights. <br />
+- avg_dep: shows the average of delay by departure. <br />
+- avg_arr: shows the average of delay by arrival. <br />
+- num_of_destinations: shows the number of destinations. <br />
+- prop_delayed_flights: shows the percentage of the delayed flights from total flights.
+</p>
+
+<p align="center">
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />

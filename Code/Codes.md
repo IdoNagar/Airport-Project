@@ -3,7 +3,7 @@
 <h2>SQL codes:</h2>
 
 <p align="center">
-Created a new table named "DailyFlights" with 5 new column: </p>
+Created a new table named "DailyFlights" with 5 new columns: </p>
 <p align="left">
 - Cancelled: based on dep_time which will get 1 if flight cancelled and 0 if not. <br />
 - Date: new format in one column for year, month, day. <br />
@@ -105,6 +105,8 @@ In this query I found the flights that got delayed by carrier: <br/>
 <p align="center">
 <img src="https://i.imgur.com/CYiiGCS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+<br />
 
 <p align="left">
 In this query I found the sum of flights by plane age <br/>
@@ -112,6 +114,7 @@ In this query I found the sum of flights by plane age <br/>
 <p align="center">
 <img src="https://i.imgur.com/c5lMplJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
 
 
 <!--

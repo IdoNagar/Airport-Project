@@ -99,11 +99,11 @@ In the next query I found the flights that got delayed by destination<br/>
 </p>
 
 <p align="left">
-In this query I found the flights that got delayed by hour <br/>
-07-11 is Morning <br/>
-12-16 is Noon <br/>
-17-23 is Afternoob <br/>
-00-06 is Night <br/>
+In this query I found the flights that got delayed by hour: <br/>
+- 07-11 is Morning <br/>
+- 12-16 is Noon <br/>
+- 17-23 is Afternoob <br/>
+- 00-06 is Night <br/>
 </p>
 <p align="center">
 <img src="https://i.imgur.com/KPbMbDW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -113,6 +113,18 @@ In this query I found the flights that got delayed by hour <br/>
 <br />
 
 <p align="left">
+In this query I found the flights that got delayed by carrier: <br/>
+</p>
+<p align="center">
+<img src="https://i.imgur.com/CYiiGCS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p align="left">
+In this query I found the sum of flights by plane age <br/>
+</p>
+<p align="center">
+<img src="https://i.imgur.com/c5lMplJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 
 <!--

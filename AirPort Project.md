@@ -54,21 +54,28 @@ Made a query for each month, by origin and carrier with new measures:
 <br />
 
 <br />
+<p align="left">
 - Changed the "dep_time" to an "hour format" <br/>
 - Added new column that shows whether it's a good weather or bad weather <br/>
+</p>
+<p align="center">
 <img src="https://i.imgur.com/vbvz6tt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/JsuRreM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+</p>
 
+<p align="left">
 In those next 2 codes I showed the sum of delayed flights and their percentage by good/bad weather <br/>
 The first code is for the good weather and the second is for the bad weather <br/>
+</p>
+<p align="center">
 <img src="https://i.imgur.com/W3V1flq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/vBuIZXZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-
+</p>
 
 Sanitization complete:  <br/>
 <img src="https://i.imgur.com/vBuIZXZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

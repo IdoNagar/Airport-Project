@@ -46,11 +46,13 @@ Made a query for each month, by origin and carrier with new measures:
 - avg_arr: shows the average of delay by arrival. <br />
 - num_of_destinations: shows the number of destinations. <br />
 - prop_delayed_flights: shows the percentage of the delayed flights from total flights.
-</p>
 
+* I wanted to sum up the different levels of delay (between mild, moderate and severe), so I added this part here as well.
+</p>
 <p align="center">
 <img src="https://i.imgur.com/EyJhR54.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+
 <br />
 Confirm your selection:  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

@@ -25,6 +25,7 @@ Presentation - with the PowerPoint (it is in Hebrew - was made for a college cou
 <br />
 <br />
 
+<p align="center">
 <h2>Graphs from the project</h2>
 
 <img src="https://i.imgur.com/KBtuo5J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -35,3 +36,4 @@ Presentation - with the PowerPoint (it is in Hebrew - was made for a college cou
 <h2>Summary & Recommendations</h2>
 
 <img src="https://i.imgur.com/nXQvmb9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>

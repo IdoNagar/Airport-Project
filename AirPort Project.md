@@ -3,7 +3,9 @@
 <h2>Description</h2>
 The project is about New-York airports.<br />
 There are 5 csv files with some data about the New-York airports.<br />
-In this Project I needed to analyze the data I got and the main focus was on delays and how to fix them.<br />
+
+*Goal:
+Analyze the data with the main focus on delays and how to improve it.<br />
 (The Data is already clean)
 <br />
 

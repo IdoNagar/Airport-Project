@@ -77,12 +77,25 @@ The first code is for the good weather and the second is for the bad weather <br
 <br />
 </p>
 
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/vBuIZXZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p align="left">
+In the next query I found the flights that got delayed by destination<br/>
+(only if there are more than 50 flights to those destinations): <br/>
+</p>
+<p align="center">
+<img src="https://i.imgur.com/8qKB7Py.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p align="left">
+In this query I found the flights that got delayed by hour <br/>
+07-11 is Morning <br/>
+12-16 is Noon <br/>
+17-23 is Afternoob <br/>
+00-06 is Night <br/>
+</p>
+<p align="center">
+<img src="https://i.imgur.com/KPbMbDW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--

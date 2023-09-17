@@ -54,10 +54,14 @@ Made a query for each month, by origin and carrier with new measures:
 <br />
 
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Changed the "dep_time" to an "hour format" + Added new column that shows whether it's a good weather or bad weather <br/>
+<img src="https://i.imgur.com/vbvz6tt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/JsuRreM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+
 Wait for process to complete (may take some time):  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />

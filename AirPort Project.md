@@ -27,14 +27,13 @@ Presentation - with the PowerPoint (it is in Hebrew - was made for a college cou
 <br />
 <br />
 
-<p align="center">
 <h2>Dashboards:</h2>
 I made 2 dashboards in excel that shows almost everything I managed to analyze within this project: <br />
 <b> You can download them from 'Dashboards'. </b> <br />
 <br />
 <br />
 
-
+<p align="center">
 <h2>First Dashboard</h2>
 <img src="https://i.imgur.com/jlk1wLv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />

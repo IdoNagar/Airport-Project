@@ -1,7 +1,6 @@
 # Airport-Project
 
 <h2>Dashboards:</h2>
-<p align="center">
 I made 2 dashboards in excel that shows everything I managed to analyze within this project: <br />
 You may download the excel files to use the slicers as well. <br />
 <br />

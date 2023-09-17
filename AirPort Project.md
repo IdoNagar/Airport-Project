@@ -17,7 +17,7 @@ Analyze the data with the main focus on delays and how to improve it.<br />
 Code - with the codes that helped during the project. <br />
 Dashboards - with the excel files (you may download them). <br />
 Data Files - with the data before being analyzed. <br />
-Presentation - with the PowerPoint (it is in Hebrew - was made for a college course). <br />
+PowerPoint Presentation - with the PowerPoint (it is in Hebrew - was made for a college course). <br />
 
 
 <h2>Languages and Utilities Used</h2>

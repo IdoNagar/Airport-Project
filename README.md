@@ -49,7 +49,7 @@ Made a query for each month, by origin and carrier with new measures:
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/EyJhR54" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>

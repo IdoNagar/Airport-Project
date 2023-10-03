@@ -50,9 +50,9 @@ Made a query for each month, by origin and carrier with new measures:
 - Added new column that shows whether it's a good weather or bad weather <br/>
 </p>
 <p align="center">
-<img src="https://i.imgur.com/vbvz6tt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2W2RfIy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://i.imgur.com/JsuRreM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/J1doLap.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
@@ -64,9 +64,9 @@ In those next 2 codes I showed the sum of delayed flights and their percentage b
 - The second is for the bad weather <br/>
 </p>
 <p align="center">
-<img src="https://i.imgur.com/W3V1flq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fXhqdcT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://i.imgur.com/vBuIZXZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LKqydyA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
@@ -93,7 +93,7 @@ In this query I found the flights that got delayed by hour: <br/>
 - 00-06 is Night <br/>
 </p>
 <p align="center">
-<img src="https://i.imgur.com/KPbMbDW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RFG30aN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <br />
@@ -103,7 +103,7 @@ In this query I found the flights that got delayed by hour: <br/>
 In this query I found the flights that got delayed by carrier: <br/>
 </p>
 <p align="center">
-<img src="https://i.imgur.com/CYiiGCS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0HbBsWF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <br />
@@ -112,7 +112,7 @@ In this query I found the flights that got delayed by carrier: <br/>
 In this query I found the sum of flights by plane age <br/>
 </p>
 <p align="center">
-<img src="https://i.imgur.com/c5lMplJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WPluj65.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 

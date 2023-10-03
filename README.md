@@ -50,6 +50,6 @@ I made 2 dashboards in excel that shows almost everything I managed to analyze w
 
 
 <h2>Summary & Recommendations</h2>
-image from the powerpoint presentation (Hebrew)<br />
+image from the powerpoint presentation<br />
 <img src="https://i.imgur.com/1D5SXxQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>

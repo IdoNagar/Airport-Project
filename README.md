@@ -42,7 +42,7 @@ I made 2 dashboards in excel that shows almost everything I managed to analyze w
 
 <h2>Second Dashboard</h2>
 
-<img src="https://i.imgur.com/nt4bx5N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kF1QQAz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
@@ -51,5 +51,5 @@ I made 2 dashboards in excel that shows almost everything I managed to analyze w
 
 <h2>Summary & Recommendations</h2>
 image from the powerpoint presentation<br />
-<img src="https://i.imgur.com/nXQvmb9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nt4bx5N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>

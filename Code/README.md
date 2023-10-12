@@ -79,7 +79,7 @@ In the next query I found the flights that got delayed by destination<br/>
 (only if there are more than 50 flights to those destinations): <br/>
 </p>
 <p align="center">
-<img src="https://i.imgur.com/8qKB7Py.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wcaFFuD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
